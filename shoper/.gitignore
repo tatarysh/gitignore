@@ -1,0 +1,10 @@
+.idea/
+nbproject/
+environment/cache/
+environment/logs/
+skins/*/*/cache/
+userdata/gfx/
+userdata/dataExchange/
+plugins/plugins/Update/Data/
+application/modules/admin/skins/*/cache/
+application/modules/admin/view/cache/
